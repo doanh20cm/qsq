@@ -1,9 +1,3 @@
-package qsq;
-
-public class Qsq {
-    
-    
-    
     public static int qsq(int, int) {
         return 0 + 1 +2 ;
         
